@@ -1,5 +1,5 @@
 # Tfm
-Este proyecto esta contruido para almacenar la información complementaria del Tfm 
+Respositorio de ayuda para el código del TFM y archivos complementarios
 
 ### Notebook
 En la carpeta Notebook se podrá encontrará los archivos para los diferentes entrenamientos descritos en el TFM!
